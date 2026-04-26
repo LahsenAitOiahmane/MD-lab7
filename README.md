@@ -16,7 +16,7 @@ Plusieurs améliorations ont été apportées à l'application initiale pour la 
 ## Démonstration Vidéo
 Vous pouvez consulter la vidéo de démonstration complète montrant le lancement de l'application, l'animation Splash initiale, et l'affichage de la galerie via le lien ci-dessous :
 
-🔗 **[Insérez votre lien Google Drive pour la vidéo de démo ici]**
+🔗 **[[demo video link ]](https://drive.google.com/file/d/1S_ENlhwBqAczJDIAhlRhgU1ojrqQraUG/view?usp=sharing)**
 
 ## Instructions d'Installation
 1. Cloner ce dépôt ou télécharger le code source.
